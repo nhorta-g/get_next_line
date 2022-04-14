@@ -6,7 +6,7 @@
 /*   By: nhorta-g <nhorta-g@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/14 19:07:41 by nhorta-g          #+#    #+#             */
-/*   Updated: 2022/04/14 19:45:32 by nhorta-g         ###   ########.fr       */
+/*   Updated: 2022/04/14 20:09:19 by nhorta-g         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -77,7 +77,7 @@ char	*get_next_line(int fd)
 	backup = extract(line);
 	return (line);
 }
-/*
+
 int	main(void)
 {
 	char	*line;
@@ -95,4 +95,3 @@ int	main(void)
 	close(fd2);
 	return (0);
 }
-*/
