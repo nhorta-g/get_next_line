@@ -6,11 +6,11 @@
 /*   By: nhorta-g <nhorta-g@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/14 19:33:46 by nhorta-g          #+#    #+#             */
-/*   Updated: 2022/04/14 19:34:06 by nhorta-g         ###   ########.fr       */
+/*   Updated: 2022/04/18 13:14:25 by nhorta-g         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 char	*ft_substr(char const *s, unsigned int start, size_t len)
 {
