@@ -1,0 +1,5 @@
+Vamos verificar erros
+Serão 5 linhas e esta a segunda
+
+Depois de uma linha vazia
+Quinta e ultima linha test2
